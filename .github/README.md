@@ -44,7 +44,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **GlyToneMusicBot** better!
 # 📑 Acknowledgement / Credits
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
