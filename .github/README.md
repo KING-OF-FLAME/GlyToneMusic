@@ -34,14 +34,10 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [Telegram Support](https://t.me/thekingofflame786)
 
 If you want to say **thank you** or/and support active development of GlyToneMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 Together, we can make **GlyToneMusicBot** better!
